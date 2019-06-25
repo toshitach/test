@@ -8,7 +8,7 @@ var productController=function(req, res){
     {id:1, title:"Rose",description:"Valentine flower",quantity:500, unitprice:12},
     {id:2, title:"Gerbera",description:"Wedding flower",quantity:1500, unitprice:16},
     {id:3, title:"Lotus",description:"Worship flower",quantity:5000, unitprice:17},
-    {id:4, title:"Lily",description:"Smelling flower",quantity:400, unitprice:25},
+    {id:4, title:"sily",description:" flower",quantity:400, unitprice:67},
     {id:5, title:"Marigold",description:"Festival flower",quantity:7500, unitprice:34},
   ];
   res.send(products);
